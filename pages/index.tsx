@@ -12,9 +12,9 @@ export default function Home() {
       <Head>
         <title>Mountain Travelling</title>
       </Head>
-      <div className="h-screen bg-bg-mountains bg-cover font-montserrat text-gray-100">
+      <div className="h-screen overflow-hidden bg-bg-mountains bg-cover font-montserrat text-gray-100">
         <NavBar />
-        <div className="flex">
+        <div className="flex h-full">
           <SocialIcons />
           <main className="w-1/4">
             <SearchBar />
