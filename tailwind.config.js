@@ -9,6 +9,9 @@ module.exports = {
         'bg-mountains': 'url("/bg-mountains.jpg")',
       },
     },
+    fontFamily: {
+      'montserrat': ['Montserrat'],
+    },
   },
   plugins: [],
 }
