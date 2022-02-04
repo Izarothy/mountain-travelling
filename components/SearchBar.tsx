@@ -7,7 +7,7 @@ const SearchBar = () => {
         type="text"
         className="w-full rounded-xl border-2 border-white bg-transparent py-3 pl-12 focus:outline-none"
       />
-      <button className="absolute left-0 top-0 pl-4 pb-1">
+      <button className="absolute left-0 top-3 pl-4 pb-1">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="absolute h-6 w-6"

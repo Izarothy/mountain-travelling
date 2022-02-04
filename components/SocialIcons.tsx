@@ -2,7 +2,7 @@ import React from 'react'
 
 const SocialIcons = () => {
   return (
-    <div className="flex w-1/5 flex-col justify-end gap-6 pl-12 pb-40 text-purple-600">
+    <div className="flex w-1/5 flex-col justify-end gap-6 pl-12 pb-40">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         className="h-8 w-8"
