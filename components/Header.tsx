@@ -2,9 +2,9 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <header>
-      <h1>Mountain</h1>
-      <h2>Climbing trips & tours</h2>
+    <header className="font-semibold">
+      <h1 className="text-5xl">Mountain</h1>
+      <h2 className="text-4xl">Climbing trips & tours</h2>
     </header>
   )
 }
